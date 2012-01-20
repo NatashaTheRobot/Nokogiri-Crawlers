@@ -1,0 +1,1 @@
+This is a collection of crawlers I'm working on to crawl Wordpress sites using the Ruby gem Nokogiri. 
